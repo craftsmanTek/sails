@@ -60,7 +60,7 @@
     "waterline-dirty": "0.5.0",
     "express": "2.5.11",
     "socket.io": "0.9.6",
-    "ejs": "0.7.2",
+    "ejs": "3.1.10",
     "connect": "1.8.3",
     "async": "0.1.22",
     "underscore": "1.4.2",
